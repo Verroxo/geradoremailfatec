@@ -1,0 +1,15 @@
+C:\Users\César\Documents\Visual\C#\emailfatec\bin\Debug\net7.0\emailfatec.exe
+C:\Users\César\Documents\Visual\C#\emailfatec\bin\Debug\net7.0\emailfatec.deps.json
+C:\Users\César\Documents\Visual\C#\emailfatec\bin\Debug\net7.0\emailfatec.runtimeconfig.json
+C:\Users\César\Documents\Visual\C#\emailfatec\bin\Debug\net7.0\emailfatec.dll
+C:\Users\César\Documents\Visual\C#\emailfatec\bin\Debug\net7.0\emailfatec.pdb
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.csproj.AssemblyReference.cache
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.AssemblyInfoInputs.cache
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.AssemblyInfo.cs
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.csproj.CoreCompileInputs.cache
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.dll
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\refint\emailfatec.dll
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.pdb
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\emailfatec.genruntimeconfig.cache
+C:\Users\César\Documents\Visual\C#\emailfatec\obj\Debug\net7.0\ref\emailfatec.dll
